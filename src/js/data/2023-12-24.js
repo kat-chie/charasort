@@ -1,24 +1,51 @@
 dataSetVersion = "2023-12-24"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
+dataSet[dataSetVersion].options = [
+  {
+    name: "Remove R Shikigamis",
+    key: "R",
+    tooltip: "Check this to remove R rarity shikigamis.",
+    checked: false
+  },
+  {
+    name: "Remove SR Shikigamis",
+    key: "SR",
+    tooltip: "Check this to remove SR rarity shikigamis.",
+    checked: false
+  },
+  {
+    name: "Remove SSR Shikigamis",
+    key: "SSR",
+    tooltip: "Check this to remove SSR rarity shikigamis.",
+    checked: false
+  }
+  {
+    name: "Remove SP Shikigamis",
+    key: "SP",
+    tooltip: "Check this to remove SP rarity shikigamis.",
+    checked: false
+  }
+];
+
 
 dataSet[dataSetVersion].characterData = [
   {
     name: "Amanozako",
     img: "Amanozako.webp",
-    opts: {false
+    opts: {SR
     }
   },
   {
     name: "Amaterasu",
     img: "Amaterasu.webp",
-    opts: {false
+    opts: {SSR
     }
   },
   {
     name: "Ame Onna",
     img: "Ame%20Onna.webp",
-    opts: {false
+    opts: {R
     }
   },
   {
