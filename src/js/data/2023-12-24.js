@@ -15,7 +15,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ame Onna",
-    img: "Ame Onna.webp",
+    img: "Ame%20Onna.webp",
     }
   },
   {
@@ -50,17 +50,17 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Enmusubi no Kami",
-    img: "Enmusubi no Kami.webp",
+    img: "Enmusubi%20no%20Kami.webp",
     }
   },
   {
     name: "Futakuchi Onna",
-    img: "Futakuchi Onna.webp",
+    img: "Futakuchi%20Onna.webp",
     }
   },
   {
     name: "Hako no Shoujo",
-    img: "Hako no Shoujo.webp",
+    img: "Hako%20no%20Shoujo.webp",
     }
   },
   {
@@ -80,7 +80,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Hone Onna",
-    img: "Hone Onna.webp",
+    img: "Hone%20Onna.webp",
     }
   },
   {
@@ -100,7 +100,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Ittan Momen",
-    img: "Ittan Momen.webp",
+    img: "Ittan%20Momen.webp",
     }
   },
   {
@@ -115,7 +115,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kachou Fuugetsu",
-    img: "Kachou Fuugetsu.webp",
+    img: "Kachou%20Fuugetsu.webp",
     }
   },
   {
@@ -145,7 +145,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kani Hime",
-    img: "Kani Hime.webp",
+    img: "Kani%20Hime.webp",
     }
   },
   {
@@ -155,12 +155,12 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kijo Momiji",
-    img: "Kijo Momiji.webp",
+    img: "Kijo%20Momiji.webp",
     }
   },
   {
     name: "Kingyo Hime",
-    img: "Kingyo Hime.webp",
+    img: "Kingyo%20Hime.webp",
     }
   },
   {
@@ -190,7 +190,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kosode no Te",
-    img: "Kosode no Te.webp",
+    img: "Kosode%20no%20Te.webp",
     }
   },
   {
@@ -200,22 +200,22 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Kujaku Myouou",
-    img: "Kujaku Myouou.webp",
+    img: "Kujaku%20Myouou.webp",
     }
   },
   {
     name: "Kyonshii Imouto",
-    img: "Kyonshii Imouto.webp",
+    img: "Kyonshii%20Imouto.webp",
     }
   },
   {
     name: "Kyuuketsu Hime",
-    img: "Kyuuketsu Hime.webp",
+    img: "Kyuuketsu%20Hime.webp",
     }
   },
   {
     name: "Kyuumei Neko",
-    img: "Kyuumei Neko.webp",
+    img: "Kyuumei%20Neko.webp",
     }
   },
   {
@@ -270,92 +270,92 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Oshiroi Baba",
-    img: "Oshiroi Baba.webp",
+    img: "Oshiroi%20Baba.webp",
     }
   },
   {
     name: "SP Aoandon",
-    img: "SP Aoandon.webp",
+    img: "SP%20Aoandon.webp",
     }
   },
   {
     name: "SP Enma",
-    img: "SP Enma.webp",
+    img: "SP%20Enma.webp",
     }
   },
   {
     name: "SP Enmusubi no Kami",
-    img: "SP Enmusubi no Kami.webp",
+    img: "SP%20Enmusubi%20no%20Kami.webp",
     }
   },
   {
     name: "SP Higanbana",
-    img: "SP Higanbana.webp",
+    img: "SP%20Higanbana.webp",
     }
   },
   {
     name: "SP Hotarugusa",
-    img: "SP Hotarugusa.webp",
+    img: "SP%20Hotarugusa.webp",
     }
   },
   {
     name: "SP Kachou Fuugetsu",
-    img: "SP Kachou Fuugetsu.webp",
+    img: "SP%20Kachou%20Fuugetsu.webp",
     }
   },
   {
     name: "SP Kaguya Hime",
-    img: "SP Kaguya Hime.webp",
+    img: "SP%20Kaguya%20Hime.webp",
     }
   },
   {
     name: "SP Kijo Momiji",
-    img: "SP Kijo Momiji.webp",
+    img: "SP%20Kijo%20Momiji.webp",
     }
   },
   {
     name: "SP Kingyo Hime",
-    img: "SP Kingyo Hime.webp",
+    img: "SP%20Kingyo%20Hime.webp",
     }
   },
   {
     name: "SP Kiyohime",
-    img: "SP Kiyohime.webp",
+    img: "SP%20Kiyohime.webp",
     }
   },
   {
     name: "SP Menreiki",
-    img: "SP Menreiki.webp",
+    img: "SP%20Menreiki.webp",
     }
   },
   {
     name: "SP Miketsu",
-    img: "SP Miketsu.webp",
+    img: "SP%20Miketsu.webp",
     }
   },
   {
     name: "SP Oitsukigami",
-    img: "SP Oitsukigami.webp",
+    img: "SP%20Oitsukigami.webp",
     }
   },
   {
     name: "SP Sanbi no Kitsune",
-    img: "SP Sanbi no Kitsune.webp",
+    img: "SP%20Sanbi%20no%20Kitsune.webp",
     }
   },
   {
     name: "SP Ubume",
-    img: "SP Ubume.webp",
+    img: "SP%20Ubume.webp",
     }
   },
   {
     name: "SP Yama Usagi",
-    img: "SP Yama Usagi.webp",
+    img: "SP%20Yama%20Usagi.webp",
     }
   },
   {
     name: "SP Youtou Hime",
-    img: "SP Youtou Hime.webp",
+    img: "SP%20Youtou%20Hime.webp",
     }
   },
   {
@@ -365,12 +365,12 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Sanbi no Kitsune",
-    img: "Sanbi no Kitsune.webp",
+    img: "Sanbi%20no%20Kitsune.webp",
     }
   },
   {
     name: "Sasori Onna",
-    img: "Sasori Onna.webp",
+    img: "Sasori%20Onna.webp",
     }
   },
   {
@@ -400,22 +400,22 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Suzuhiko Hime",
-    img: "Suzuhiko Hime.webp",
+    img: "Suzuhiko%20Hime.webp",
     }
   },
   {
     name: "Suzuka Gozen",
-    img: "Suzuka Gozen.webp",
+    img: "Suzuka%20Gozen.webp",
     }
   },
   {
     name: "Takiyasha Hime",
-    img: "Takiyasha Hime.webp",
+    img: "Takiyasha%20Hime.webp",
     }
   },
   {
     name: "Tenjou Kudari",
-    img: "Tenjou Kudari.webp",
+    img: "Tenjou%20Kudari.webp",
     }
   },
   {
@@ -425,31 +425,31 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Umi no Chou",
-    img: "Umi no Chou.webp",
+    img: "Umi%20no%20Chou.webp",
     }
   },
   {
     name: "Ushi no Toki",
-    img: "Ushi no Toki.webp",
+    img: "Ushi%20no%20Toki.webp",
     }
   },
   {
     name: "Yama Usagi",
-    img: "Yama Usagi.webp",
+    img: "Yama%20Usagi.webp",
     }
   },
   {
     name: "Youtou Hime",
-    img: "Yoto Hime.webp",
+    img: "Yoto%20Hime.webp",
     }
   },
   {
     name: "Yuki Onna",
-    img: "Yuki Onna.webp",
+    img: "Yuki%20Onna.webp",
     }
   },
   {
     name: "Zashiki Warashi",
-    img: "Zashiki Warashi.webp",
+    img: "Zashiki%20Warashi.webp",
     }
 ];
