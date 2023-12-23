@@ -332,7 +332,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Menreiki",
-    img: "Menreiki.webp"
+    img: "Menreiki.webp",
     opts: {
       SSR: true
     }
@@ -342,7 +342,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Miakashi.webp",
       opts: {
       SR: true
-    }
+      }
   },
   {
     name: "Miketsu",
@@ -658,4 +658,5 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       R: true
     }
+  }
 ];
