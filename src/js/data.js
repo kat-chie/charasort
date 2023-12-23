@@ -20,4 +20,4 @@ let dataSetVersion = '';
 /**
  * Image root, will be appended to the start of every image URL.
  */
-const imageRoot = 'https://github.com/kat-chie/charasort/tree/master/src/assets/chars/';
+const imageRoot = 'https://raw.githubusercontent.com/kat-chie/charasort/master/src/assets/chars/';
