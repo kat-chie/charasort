@@ -34,21 +34,21 @@ dataSet[dataSetVersion].characterData = [
     name: "Amanozako",
     img: "Amanozako.webp",
     opts: {
-    SR: true
+      SR: true
     }
   },
   {
     name: "Amaterasu",
     img: "Amaterasu.webp",
     opts: {
-    SSR: true
+      SSR: true
     }
   },
   {
     name: "Ame Onna",
     img: "Ame%20Onna.webp",
     opts: {
-    R: true
+      R: true
     }
   },
   {
