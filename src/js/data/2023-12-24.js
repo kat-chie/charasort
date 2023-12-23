@@ -28,7 +28,6 @@ dataSet[dataSetVersion].options = [
   }
 ];
 
-
 dataSet[dataSetVersion].characterData = [
   {
     name: "Amanozako",
