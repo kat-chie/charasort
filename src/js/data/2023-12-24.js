@@ -19,13 +19,13 @@ dataSet[dataSetVersion].options = [
     key: "SSR",
     tooltip: "Check this to remove SSR rarity shikigamis.",
     checked: false
-  }
+  },
   {
     name: "Remove SP Shikigamis",
     key: "SP",
     tooltip: "Check this to remove SP rarity shikigamis.",
     checked: false
-  }
+  },
 ];
 
 dataSet[dataSetVersion].characterData = [
